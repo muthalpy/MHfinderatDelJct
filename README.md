@@ -5,3 +5,5 @@ Exports CSV file containing deletion start/end coordinates, deletion size and se
 Creats JPG file for deletion spectra
 
 This pipeline was used to analyze data for Cho and Jinks-Robertson 2019 PNAS manuscript (in press)
+
+This script was written by Jang-Eun Cho and Muthana Al Abo. 
